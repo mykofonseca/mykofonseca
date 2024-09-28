@@ -15,4 +15,3 @@
 <a href="https://linkedin.com/in/maykon santana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maykon santana" height="30" width="40" /></a>
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/platane/mykofonseca/output/github-contribution-grid-snake-dark.svg)
