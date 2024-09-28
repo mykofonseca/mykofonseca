@@ -5,7 +5,6 @@
 <br>
 <img height="150px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mykofonseca&" alt="mykofonseca" />
 <img height="150px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mykofonseca&show_icons=true&locale=en&layout=compact" alt="mykofonseca" />
-&nbsp;<img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=mykofonseca&show_icons=true&locale=en" alt="mykofonseca" />
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
