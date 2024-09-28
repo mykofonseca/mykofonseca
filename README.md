@@ -3,8 +3,8 @@
 
 <p align="left"> <img height="30px" src="https://komarev.com/ghpvc/?username=mykofonseca&label=Profile%20views&color=0e75b6&style=flat" alt="mykofonseca" /> </p>
 <div style="display: flex;">
-    <img height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mykofonseca&show_icons=true&locale=en&layout=compact" alt="mykofonseca" />
-    <img height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mykofonseca&" alt="mykofonseca" />
+    <img height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mykofonseca&show_icons=true&locale=en&layout=compact" alt="mykofonseca" />
+    <img height="180px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mykofonseca&" alt="mykofonseca" />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
