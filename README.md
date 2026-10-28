@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Maykon 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=IT+Specialist+III+%40+Siegwerk+Druckfarben;Infrastructure+%C2%B7+Cloud+%C2%B7+Networking+%C2%B7+Automation;Windows+Server+%C2%B7+Azure+%C2%B7+Intune+%C2%B7+Cisco+Meraki;Computer+Science+Student+%40+FIAP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=IT+Support+LATAM+%40+Siegwerk+Druckfarben;Infrastructure+%C2%B7+Cloud+%C2%B7+Networking+%C2%B7+Automation;Windows+Server+%C2%B7+Azure+%C2%B7+Intune+%C2%B7+Cisco+Meraki;Computer+Science+Student+%40+FIAP" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 IT Specialist focused on **infrastructure, cloud, and networking**, administering Windows Server and Active Directory environments, managing endpoints through Intune/Azure, handling network security and segmentation (including OT/industrial environments), automating tasks with PowerShell, and applying ITIL service management practices — coordinating technical decisions across multiple regions (LATAM, CUSA, EMEA) in a multicultural corporate environment.
 
-- 💼 **IT Specialist III** — Infrastructure and Service Desk @ **Siegwerk Druckfarben AG & Co. KGaA** (Jun 2025 – Present)
+- 💼 **IT Support LATAM** — Infrastructure and Service Desk @ **Siegwerk Druckfarben AG & Co. KGaA** (Jun 2025 – Present)
 - 🎓 Bachelor's Degree in **Computer Science** — **FIAP** (2025–2029), focused on AI, Data Science, and Platform Engineering
 - 🛠️ Integrated Technical Course in **Systems Analysis and Development** — **SENAI** (2023–2024)
 - 🏆 **São Paulo Skills 2024** — Category #17 (Web Technologies), Qualifiers
